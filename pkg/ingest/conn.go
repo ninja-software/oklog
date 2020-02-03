@@ -12,7 +12,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/oklog/oklog/pkg/record"
+	"oklog/pkg/record"
 	"github.com/oklog/ulid"
 )
 

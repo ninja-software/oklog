@@ -11,7 +11,7 @@ import (
 
 	"github.com/oklog/ulid"
 
-	"github.com/oklog/oklog/pkg/fs"
+	"oklog/pkg/fs"
 )
 
 func TestChooseFirstSequential(t *testing.T) {

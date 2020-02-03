@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/oklog/oklog/pkg/fs"
+	"oklog/pkg/fs"
 	"github.com/oklog/ulid"
 )
 
